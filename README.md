@@ -27,7 +27,3 @@ I am a **Software Engineer** with a Master’s in Computer Science from **Georgi
 - **RTC** (Rewriting the Code)
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
